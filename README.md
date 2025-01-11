@@ -137,7 +137,7 @@ The following trained model weights are available through Google Drive:
 - `optimizer.pt-Pegasus`: PEGASUS optimizer state
 - Download Links:
   - [PEGASUS Model Weights](https://drive.google.com/file/d/1BT3dAXEW-dImgUDfnmeWWV1-uNkYIWyS/view?usp=sharing)
-  - [PEGASUS Optimizer State](https://drive.google.com/file/d/1BT3dAXEW-dImgUDfnmeWWV1-uNkYIWyS/view?usp=sharing)
+  - [PEGASUS Optimizer State](https://drive.google.com/file/d/1G_Odac-qBwPeEusUSVfQPat6948yPjWi/view?usp=sharing)
 
 
 ### 8. Conclusion
